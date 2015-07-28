@@ -213,6 +213,8 @@ Layout
 
 .logo {
     display: block;
+    margin-top: -22px;
+    width: 100px;
 }
 
 .content {
