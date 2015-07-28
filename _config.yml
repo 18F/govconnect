@@ -27,15 +27,22 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
+- text: Overview
   url: index.html
   internal: true
-- text: Example Page
-  url: example_page.html
+- text: Models
+  url: models.html
   internal: true
-- text: DOCter Repo
-  url: https://github.com/cfpb/DOCter
-  internal: false
+- text: Hypotheses
+  url: hypotheses.html
+  internal: true
+# - text: Research
+#   url: research.html
+#   internal: true
+
+# - text: DOCter Repo
+#   url: https://github.com/cfpb/DOCter
+#   internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
