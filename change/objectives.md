@@ -4,7 +4,7 @@ Assumption: The federal government needs a forward-thinking strategy and technol
 
 Goal: **GovConnect** seeks to create a flatter, more agile and unified government and a skilled, mobile, connected, innovative, collaborative and responsive government workforce with 21st century skills.
 
-## Phases
+## Key Objectives
 (1) The GovConnect network provides both the program support and technological capability that encourages and enables:
 
 * Enhanced employee engagement, innovation and productivity by giving employees access to the tools (and people) they need to efficiently share knowledge, collaborate and innovate.
