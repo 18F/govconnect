@@ -1,0 +1,4 @@
+#Step 1: Create A Vision#
+The first challenge that any agile workforce program needs to tackle is defining why this type of program is needed in the first place. This requires a program team to do a little research into what challenges your agency is facing and how a new program can improve the employee experience and can increase your organization’s success.
+
+Setting up a successful pilot program can be executed with no more technology than whiteboards and adhesive notes; however, these kinds of programs are limited to a single geography, requiring in-person collaboration at first. Remote collaboration can occur once a team is settled in and comfortable working with each other. All you really need is a dedicated team that is able to devote some time and energy to gathering stakeholders and brainstorming what kinds of projects and opportunities could be addressed by the initiative.
