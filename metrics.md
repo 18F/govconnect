@@ -1,4 +1,4 @@
-**Step 6: Measuring Efforts and Success**
+#Step 6: Measuring Efforts and Success#
 
 For a program administration team to take a pilot and move it into a fully supported program, the team has to be able to communicate how the new agile workforce program was a success and how the program can continue to mature going forward.
 
@@ -6,7 +6,7 @@ These success metrics can include the ability to track the activity of employees
 
 One requirement for getting metric tracking in place is to have certain technologies in place that will measure these metrics automatically. These are simple to set up, but they may require some assistance from the agency’s IT department. 
 
-*Qualitative*
+##Qualitative##
 
 Some methods for tracking success need to be done manually and requires the administration team to reach out and interact directly with employee participating in the agile workforce program. Two methods, which are recommended best practices and ensures that the program has a human centered design behind it, include:
  
@@ -17,11 +17,11 @@ Some methods for tracking success need to be done manually and requires the admi
     * What did you learn from your project?  
 * Applicant interviews - Once a month, the team administration should reach out to a 2 - 3 project applicants and project leads to interview them about their experience and interactions with the agile workforce program. These interviews should be 30-45 minutes in length and focus on how the program is working for participants and how it can be improved. 
 
-*Quantitative*
+##Quantitative##
 
 Nothing speaks to measuring success than having hard numbers that can be shared with stakeholders and senior executive supports. Various tools, listed below, give the team the to ability to report on online usage and metrics.
 
-*Target Metrics*
+##Target Metrics##
 
 The following metrics can be collected using a variety of tools or methods, many of which are automated. These metrics give teams several key points of interest that can used to show the progress and success of the new pilot or program. 
 * Who are your participants?  
@@ -41,6 +41,39 @@ The following metrics can be collected using a variety of tools or methods, many
 * Overall time to the site hosting the program
 * Before and after EVS Scores
 
-*Capturing Metrics*
+##Capturing Metrics##
 
 The above metrics can be cataloged using many tools that may already be available to the team through their agency’s IT department. Alternative, more manual, methods are also provided if the team can’t get the support they need from IT.
+
+###Platforms###
+
+####Google Analytics####
+
+INSERT PICTURE
+
+Google Analytics is free analytics tracking tool that can “watch” all the activity and traffic that occurs on a website. It’s a user friendly tool that takes some setup to get everything working. The dashboards give teams insight into not only what people are doing on a site, but how they are doing it and how long it takes them. 
+
+####SharePoint Analytics####
+
+INSERT PICTURE
+
+SharePoint has its own suite of analytics tools for teams that build their program on top of the SharePoint platform, and can’t use Google Analytics. It provides many of the same information as other platforms, but can give a team deeper information about the specific people using the program. 
+
+####Google Forms####
+
+INSERT PICTURE
+
+Teams that need a more manual approach to collecting information about their participants can use Google Forms as a means of gathering feedback and usage information. It links various forms that can be published or emailed; participants can report on their demographic information and submit a summary of their activity. 
+
+####Survey Tools####
+
+INSERT PICTURES OF THE THREE TOOLS
+
+Additional survey tools are able to fulfill the same need as Google Forms if Google Apps are not available to use within the agency. It may be possible that tools such as SurveyMonkey, Survs, or Survey Gizmo (a small sample of many different online tools), may be available through an existing account the agency owns. If they are not available, funding may need to be secure to purchase an account with these tools to properly gather the metrics the team needs to communicate the success of the program. 
+
+###Sample Reports###
+
+Below are examples of different dashboards and reports that existing programs use to track the overall activity of participants and the success of their programs. These are provided to give program teams an idea of the type of information that can be gathered and how it can be displayed for stakeholders and senior executive support. 
+
+INSERT PICTURES OF THREE EXAMPLES OF DASHBOARDS
+
