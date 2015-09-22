@@ -74,6 +74,83 @@ DESCRIPTION
 
 **BENEFIT**
 
+###Project Creator Profile###
+
+**INSERT THUMBNAIL**
+
+JOB TITLE
+
+DESCRIPTION
+
+####Reasons for Creating Project####
+**REASON**
+
+**REASON**
+
+**REASON**
+
+####Agency Benefits####
+**REASON**
+
+**REASON**
+
+**REASON**
+
+###Senior Executive Support###
+
+* What mechanisms are in place to gain the commitment and support of senior leadership? Has senior leadership helped define the mentoring program?
+* Leadership training available to guide prospective mentors as they work with more inexperienced colleagues?
+* What ways will the senior leadership define clear goals? 
+
+###Supervisors###
+* What are the problem and concerns of supervisors?
+* How can those fears be resolved or mitigated?
+* What training do supervisors need to learn how to work in new way?
+
+###Union Relations###
+* What ways can you draw upon the experiences of union leaders?
+* Are there documents or other measures available to protect employees and ensure confidentiality during mentoring conversations? 
+* What ways will union representatives define clear goals? 
+* How can unions be included in the planning and design of a program?
+* How can you address common concerns from unions?
+
+###Project Lead Checklist##
+Every team needs a leader, someone who is able to carry the torch and keep the path clear for the other team members to be successful. One artifact that helps teams set up their program faster and more efficiently is a Project Lead Checklist. This checklist gives the team leader a run down of all the things they need to get done or delegate to other team members to get a pilot started. This checklist is different for every team and for every agency due to internal organization and culture considerations, but below we’ve provided a baseline to modify based on the team’s goals and needs.
+
+####New Pilot Checklist####
+*Team Creation*
+- Locate two to three co-workers to assist with program planning and administration
+- Define roles for team members
+- Team members made up of cross department/cross discipline representation
+- Locate a mentor to guide the team
+- Define a plan for ownership transition if pilot gets approval to become fully supported program
+
+*Problem Statement*
+- Meet with department leaders and supervisors to explore problem space
+- Meet with union representatives to understand concerns 
+- Host a workshop collectively define the problem that needs to be solved with representatives from management, supervisors, and unions. 
+- Draft problem statement and validate with both employees and other stakeholders
+
+*Platform Evaluation*
+- Research the available technology platforms made available by agencies’ IT department
+- Evaluate using Open Opportunities to host both the pilot and the program
+
+*Marketing Plan*
+- Create an editorial calendar for posting digital and physical marketing material around the agency
+- Contact your agency’s public relations and marketing department or outreach and communications department to determine the level of support they can provide to create collateral
+- Determine how the team can include content in agency newsletters or announcements
+- Ask to make announcements during any townhalls or agency-wide meetings
+- Determine what materials located in the Marketing section of the Starter Kit the team would like to produce
+
+*Pre-Launch Check*
+- Create a form for new project and applications
+- Validate that project can be created and submitted to the pilot
+- Validate that applications can be created and submitted to the pilot
+- Test any supervisor workflow if it’s been implemented
+- Prepare pilot launch messages, emails, and announcements
+- Determine application review process
+- Validate analytics tracking for the pilot
+
 
 
 
