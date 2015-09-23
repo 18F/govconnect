@@ -33,7 +33,7 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Goal
+- text: What is GovConnect?
   url: index.html
   internal: true
 - text: Get Started
