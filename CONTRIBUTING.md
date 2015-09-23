@@ -17,10 +17,17 @@ This set of web pages uses [DOCter](http://cfpb.github.io/DOCter/), a [Jekyll](h
 
 ## To run locally
 
-You will need to have Ruby 2.2.2 install and the bundler gem
+You will need to have Ruby 2.2.2 install, the bundler gem, and pandoc
 
 ```
 gem install bundler
+```
+
+on mac osx, you can use homebrew to install pandoc
+
+```
+brew update
+brew install pandoc
 ```
 
 Fork and clone the repo:

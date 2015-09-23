@@ -1,10 +1,12 @@
-#Step 4: Creating Program Projects#
-
-When planning and designing an agile workforce pilot, there are several work products that will help an administration team keep organized and set the pilot up for greater participation and success. 
+---
+layout: page
+title:  "Step 4: Create Projects"
+---
+When planning and designing an agile workforce pilot, there are several work products that will help an administration team keep organized and set the pilot up for greater participation and success.
 
 ##Project Creation##
 
-It is important that any project created and posted to the pilot program is created to encourages others to apply and begin working on the posted project. One thing to consider is that project writing is hard, it needs to provide enough information that an applicant understands what the purpose of the project is and why they might want to apply to work on the project. Below are some common tactics other programs have used to aid project creators in how to write a good project. 
+It is important that any project created and posted to the pilot program is created to encourages others to apply and begin working on the posted project. One thing to consider is that project writing is hard, it needs to provide enough information that an applicant understands what the purpose of the project is and why they might want to apply to work on the project. Below are some common tactics other programs have used to aid project creators in how to write a good project.
 
 *Identifying Projects*
 - Does the current team not have the skills necessary to solve this problem?
@@ -21,7 +23,7 @@ It is important that any project created and posted to the pilot program is crea
 - Define a start and end date
 - Define the size of the team the project would need to complete it
 
-*Posting a New Project* 
+*Posting a New Project*
 - Market the project around the department and agency
 - Create “what’s in it for me” language to encourage people to apply
 - Review new applications in a timely manner to avoid losing interest
@@ -30,7 +32,7 @@ It is important that any project created and posted to the pilot program is crea
 - Not performance review
 - Freedom to take risks
 - Focus on work done not the person
-- Constructive feedback 
+- Constructive feedback
 - Articulate outcomes once project is completed
 
 *Additionals References*
@@ -59,12 +61,11 @@ While software and technology are important, knowledge is the main asset when de
 
 Key drivers for agencies to manage knowledge effectively in project development and implementation include:
 
-* Reducing the time and effort spent in gathering required information for project execution. 
-* Improving reusability or avoiding reinvention. 
-* Reducing dependency on a few individuals for the project’s overall success. 
+* Reducing the time and effort spent in gathering required information for project execution.
+* Improving reusability or avoiding reinvention.
+* Reducing dependency on a few individuals for the project’s overall success.
 * Improving the overall project team’s productivity.
 
 To encourage widespread engagement throughout the team and to bolster the business case for the project, it is important to prove the concept within departments, across the organization. Develop a Wiki devoted to the project to ensure knowledge management of best practices and lessons learned.
 
 **PLACEHOLDER: more insight about ways to curate/capture/disseminate knowledge & platforms to host this --- WordPress, Wikis, SharePoint, Google Docs, etc. - what their agencies supports**
-

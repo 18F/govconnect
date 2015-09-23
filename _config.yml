@@ -1,8 +1,14 @@
 # Base configuration
 permalink: /:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-markdown: kramdown
-pygments: true
+markdown: pandoc
+highlighter: pygments
+gems:
+  - jekyll-pandoc
+pandoc:
+  extensions:
+    - normalize
+    - smart
 
 # Title
 name: GovConnect
@@ -27,15 +33,34 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Overview
+- text: Goal
   url: index.html
   internal: true
-- text: Models
-  url: models.html
+- text: Get Started
+  url: intro.html
   internal: true
-- text: Hypotheses
-  url: hypotheses.html
+- text: 1. Create a Vision
+  url: vision.html
   internal: true
+- text: 2. Assemble a Team
+  url: team.html
+  internal: true
+- text: 3. Leverage Technology
+  url: technology.html
+  internal: true
+- text: 4. Create Projects
+  url: projects.html
+  internal: true
+- text: 5. Get the Word Out
+  url: marketing.html
+  internal: true
+- text: 6. Measure Success
+  url: metrics.html
+  internal: true
+- text: History of GovConnect
+  url: history.html
+  internal: true
+
 # - text: Research
 #   url: research.html
 #   internal: true

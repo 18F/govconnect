@@ -1,6 +1,5 @@
 # govconnect
 
-
 This should be considered a work in progress.  We welcome pull requests and discussion via [github issues](https://github.com/18F/govconnect/issues).
 
 ## License
