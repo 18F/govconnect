@@ -26,21 +26,30 @@ Nothing speaks to measuring success than having hard numbers that can be shared 
 ##Target Metrics##
 
 The following metrics can be collected using a variety of tools or methods, many of which are automated. These metrics give teams several key points of interest that can used to show the progress and success of the new pilot or program.
-* Who are your participants?  
+
+* Who are your participants?
     * Who has been creating projects?
     * Who has been working on projects?
+
 * How many people are participating?
     * Which groups and departments are they from?
-    * How many participants are from different teams or departments working on the same project?
+    * * How many participants are from different teams or departments working on the same project?
+
 * Number of cross-team connections
+
 * Collect demographics of participants such as:
     * Length of employment
     * Participation by department
     * Typical skills or domain knowledge
+
 * Impact of the projects themselves?  (e.g. audience reach, # citizens affected)
+
 * Unique visitors to the site hosting the program
+
 * Bounce rate to the site hosting the program
+
 * Overall time to the site hosting the program
+
 * Before and after EVS Scores
 
 ##Capturing Metrics##
