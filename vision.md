@@ -2,12 +2,19 @@
 layout: page
 title:  "Step 1: Create A Vision"
 ---
+You may have a clear vision of what you want to make happen, or perhaps your
+supervisor or a leader within your agency assigned you the task of creating
+an agile workforce initiative within your agency.  In either case, the first
+step is to create a _shared_ vision of what you are working on and its intended
+outcome.  This will take some time and involve a lot of people, but the steps
+are simple and there are others who have done this before who are here to help
+and support you.
 
-All you really need is a dedicated team that is able to devote some time and energy to finding people who want to get involved and brainstorming what kinds of projects and opportunities you want to make happen.
-
+<!--
 A)  [Recruit a mentor] from another agency
 B)  [Write Your Own Problem Statement]
 C)  [Define Your Goal]
+-->
 
 ##Recruit a mentor##
 
