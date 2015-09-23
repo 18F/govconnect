@@ -33,7 +33,7 @@ The following metrics can be collected using a variety of tools or methods, many
 
 * How many people are participating?
     * Which groups and departments are they from?
-    * * How many participants are from different teams or departments working on the same project?
+    * How many participants are from different teams or departments working on the same project?
 
 * Number of cross-team connections
 
