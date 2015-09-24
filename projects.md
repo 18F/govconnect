@@ -46,11 +46,11 @@ Many program teams are leading their first project when they decide to head up a
 
 ###Project Plans###
 
-[![An example of a project plan](/govconnect/assets/img/GanntChart_ProjectPlanning.png)( https://en.wikipedia.org/wiki/Gantt_chart#/media/File:GanttChartAnatomy.svg)]
+[![An example of a project plan](/govconnect/assets/img/GanntChart_ProjectPlanning.png)]( https://en.wikipedia.org/wiki/Gantt_chart#/media/File:GanttChartAnatomy.svg)
 
 ###Milestones###
 
-[![An example of tracking milestones](/govconnect/assets/img/Milestones_ProjectPlanning.png)( https://upload.wikimedia.org/wikipedia/commons/7/7d/Milestones.png)]
+[![An example of tracking milestones](/govconnect/assets/img/Milestones_ProjectPlanning.png)]( https://upload.wikimedia.org/wikipedia/commons/7/7d/Milestones.png)
 
 ##Knowledge sharing and management##
 
