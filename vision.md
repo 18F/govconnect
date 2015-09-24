@@ -92,4 +92,4 @@ Here are some ideas:
 * Increased employee productivity due to the introduction of new efficiencies
 * Greater ability to recruit and retain new talent to fill open slots within the agency
 
-Before you define you goal, review [Step 6 Measuring Success](metrics.html) and brainstorm ways that you might measure the outcome.  Feel free to use words that inspire you and your team, even if you aren't exactly sure how you will measure them.
+Before you define you goal, review [Step 6: Measuring Success](metrics.html) and brainstorm ways that you might measure the outcome.  Feel free to use words that inspire you and your team, even if you aren't exactly sure how you will measure them.
