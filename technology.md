@@ -24,7 +24,7 @@ What platforms are available to a team depends on internal IT policies and the t
 
 Open Opportunities is part of the Digital Gov initiative that allows any federal employee to create an account to post new project or to apply for any project listed. Used by GSA and the State Department, this platform is an example of a platform that operates across all federal agencies.
 
-![A screenshot of part of Open Opportunities page](/img/OpenOpps_Example.png)
+![A screenshot of part of Open Opportunities page](/govconnect/assets/img/OpenOpps_Example.png)
 
 #####Pros#####
 * Already established with active user population
@@ -38,6 +38,8 @@ Open Opportunities is part of the Digital Gov initiative that allows any federal
 * Agency fees needed for supervisor notification and deploying for internal users only
 
 ###SharePoint###
+
+![Example a SharePoint dashboard](/img/DeptofCommerce_Sample.png)
 
 SharePoint is a common platform for many agencies such as EPA, the Social Security Administration, and the Commerce Department where employees have access to create their own pages or sites. This allows for a program to take advantage of many of the integrations that came along with SharePoint, such as accessing Exchange Profiles to map employee and supervisor relationships. The process for getting a page or site launched to host the program requires assistance from your IT department.
 
