@@ -59,7 +59,7 @@ A common mistake many pilot programs make is trying to create a program that is 
 
 ###Applicant Profile###
 
-[comment]: FIXME: **INSERT THUMBNAIL**
+![An example of an applicant profile](/govconnect/assets/img/Sample Applicant.png)
 
 JOB TITLE
 
