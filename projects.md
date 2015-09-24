@@ -2,7 +2,7 @@
 layout: page
 title:  "Step 4: Create Projects"
 ---
-When planning and designing an agile workforce pilot, there are several work products that will help an administration team keep organized and set the pilot up for greater participation and success.
+When planning and designing an agile workforce pilot, there are several materials that will help a team stay organized and set the pilot up for greater participation and success.
 
 ##Project creation##
 
