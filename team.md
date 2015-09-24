@@ -80,7 +80,7 @@ DESCRIPTION
 
 ###Project Creator Profile###
 
-**INSERT THUMBNAIL**
+[comment]: FIXME: **INSERT THUMBNAIL**
 
 JOB TITLE
 
