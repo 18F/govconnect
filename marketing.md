@@ -47,8 +47,6 @@ Effective communications can help engage employees to meet these challenges and 
     * Use the agency’s intranet, a centerpiece of all communication.
     * Explore technology capabilities that will enhance your communications and engagement as an organization.
 
-##Marketing materials##
-**PLACEHOLDER - Intro text**
 
 ###Areas of focus:###
 
