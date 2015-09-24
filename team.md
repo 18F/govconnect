@@ -4,10 +4,10 @@ title:  "Step 2: Assemble a Team"
 ---
 The amount and types of stakeholders that are involved in a new agile workforce program differ based on the agency and overall scope of the program. These stakeholders include:
 
-* Mentors
-* Applicants
-* Supervisors
-* Senior Executive Leadership
+* [Mentors]
+* [Applicants]
+* [Supervisors]
+* [Senior Executive Leadership]
 
 The most important group of stakeholders however is the team behind the agile workforce program. This team doesn’t need to be large to do the design, planning, and launching of the program, however it does take one that is dedicated and engaged. Several key roles make up this program team:
 
