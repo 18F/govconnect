@@ -52,17 +52,25 @@ The above metrics can be cataloged using many tools that may already be availabl
 
 ####Google Analytics####
 
+![Google Analytics logo](/govconnect/assets/img/GoogleAnalyticsLogo.png)
+
 Google Analytics is free analytics-tracking tool that can “watch” all the activity and traffic that occurs on a website. It’s a user-friendly tool that takes some set up to get everything working. The dashboards give teams insight into not only what people are doing on a site, but how they are doing it and how long it takes them.
 
 ####SharePoint Analytics####
+
+![SharePoint logo](/govconnect/assets/img/SharepointLogo.png)
 
 SharePoint has its own suite of analytics tools for teams that build their program on top of the SharePoint platform and can’t use Google Analytics. It provides many of the same information as other platforms, but can give a team deeper information about the specific people using the program.
 
 ####Google forms####
 
+![Google forms logo](/govconnect/assets/img/GoogleFormsLogo.png)
+
 Teams that need a more manual approach to collecting information about their participants can use Google Forms as a means of gathering feedback and usage information. It links various forms that can be published or emailed; participants can report on their demographic information and submit a summary of their activity.
 
 ####Survey tools####
+
+![Different types of survey tools](/govconnect/assets/img/FeedbackSurveyOptions.png)
 
 Additional survey tools are able to fulfill the same need as Google Forms if Google Apps are not available to use within the agency. It may be possible that tools such as SurveyMonkey, Survs, or Survey Gizmo (a small sample of many different online tools) may be available through an existing account the agency owns. If they are not available, the agency may need to secure funding to purchase accounts, enabling the team to properly gather the metrics it needs to communicate the success of the program.
 
@@ -70,4 +78,7 @@ Additional survey tools are able to fulfill the same need as Google Forms if Goo
 
 Existing programs also use different dashboards and reports to track the overall activity of participants and the success of their programs. These tools may give program teams an idea of the type of information that can be gathered and how it can be displayed for stakeholders and senior executive support.
 
+![An example of a report](/govconnect/assets/img/OpenOppsReport.png)
+![An example of a report](/govconnect/assets/img/SkillsConnectReport.png)
+![An example of a report](/govconnect/assets/img/SkillsConnectPilotReport.png)
 
