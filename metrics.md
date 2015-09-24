@@ -68,6 +68,6 @@ Additional survey tools are able to fulfill the same need as Google Forms if Goo
 
 ###Sample reports###
 
-Below are examples of different dashboards and reports that existing programs use to track the overall activity of participants and the success of their programs. These are provided to give program teams an idea of the type of information that can be gathered and how it can be displayed for stakeholders and senior executive support.
+Existing programs also use different dashboards and reports to track the overall activity of participants and the success of their programs. These tools may give program teams an idea of the type of information that can be gathered and how it can be displayed for stakeholders and senior executive support.
 
 
