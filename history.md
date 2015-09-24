@@ -15,4 +15,7 @@ GovConnect is open, transparent, and actively engages [different stakeholders](t
 
 "Thanks to the success of these initiatives and the passion of our partners at the Office of Personnel Management (OPM), GovConnect was born. GovConnect is an agile workforce initiative sponsored by OPM and co-led by EPA to encourage agencies to think differently about work, one that develops and connects the federal workforce, encourages innovation, and helps develop critical skills and build professional networks across the government to where and when they’re needed. GovConnect is a network of existing and new programs that seek to achieve this goal," according to 18F.
 
+OPM, the White House Personnel Office, EPA, and 18F co-hosted [a workshop](workshop.html) in early September to discuss challenges and opportunities facing the next phase of development for GovConnect, or the experiences of individuals who’ve worked with an agile workforce program similar to the GovConnect pilots currently in place.
+
 Early adopters have played a major role evangelizing best practices that are improving employee experience as they work for the federal government. Among the ways they have advanced the initiative is by contributing to the creation of a [Starter Kit](intro.html) to help other agencies that want to launch GovConnect pilots.
+
