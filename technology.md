@@ -40,7 +40,7 @@ SharePoint is a common platform for many agencies such as EPA, the Social Securi
 A custom solution built with SharePoint can include notification system to keep supervisors informed if employees apply for new project. This system can also track if a supervisor has approved an employee's desire to participant or not, which requires additional customization.
 
 #####Pros#####
-* A fully supported platform available to all agency employees
+* A fully supported platform available to most agencies
 * Easy integration with Exchange profile to allow for supervisor approval workflow
 * Can be integrated into an agency's intranet for greater exposure
 
