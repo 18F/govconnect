@@ -60,6 +60,7 @@ A common mistake many pilot programs make is trying to create a program that is 
 ###Applicant Profile###
 
 [comment]: FIXME: **INSERT THUMBNAIL**
+
 JOB TITLE
 
 DESCRIPTION
