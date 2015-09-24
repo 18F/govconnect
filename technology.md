@@ -53,7 +53,7 @@ A custom solution built with SharePoint can include notification system to keep 
 
 [comment]: FIXME: **INSERT TWO PICTURES FOR WORDPRESS AND GOOGLE**
 
-Additional platforms have been used to pilot programs successfully; however, these require significant manual labor and are only recommended if an agency has staff time but a limited budget, and also has significant internal cultural barriers against using an open platform. These platforms will require the team to be more hands-on with the incoming project, applications, and project updates. These solutions are appropriate for teams that have limited support but still want to prove the value of an agile workforce program.
+Additional platforms have been used to pilot programs successfully; however, these require significant manual labor and are only recommended if an agency has staff time but a limited budget, and also has significant internal cultural barriers against using an open platform. These platforms will require the team to be more hands-on with the incoming project, applications, and project updates. 
 
 ######Pros######
 * Simple platforms that require little support from agency IT department
