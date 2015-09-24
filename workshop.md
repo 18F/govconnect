@@ -13,8 +13,6 @@ The goal of GovConnect is to create a culture of excellence by implementing a ne
 
 Every agency, and every employee, has a stake in improving workforce development. 
 
-[comment]: FIXME: **View meeting agenda (UPLOAD PDF)** 
-
 Here are key points made by participants at the meeting:
 * Create a strong problem statement. Lay out the problem clearly with a definite objective. How will the team measure success, progress? Make sure employees have the tools they need to solve the problem and supervisors/mid-level managers are not hampering employees' efforts as they solve it. Monitor how employees are empowered, encouraged to innovate.
 * Personalize design for support, administration, communication, etc., within the scope of the agency’s culture. Make a concerted effort to appeal to employees with underutilized skills to give them opportunities to engage in higher-level work. Aim to create a team represented by people with a mix of commitment with the agency’s core mission and their own desire to grow as a professional.
@@ -40,7 +38,7 @@ Participants asked and answered difficult questions, internalized the responses,
 * Would it be useful to form an ongoing GovConnect community group, and how could such a group be organized/structured?
 * How do we present a unified face to employees and supervisors, speak their language?
 * Do we have any gaps (products, services, technology) when it comes to fulfilling our mission?
-* #Team - How do we create a safer space for experimentation?
+* How do teams create a safer space for experimentation?
 
 The GovConnect team facilitated the process by cutting up different prototypes and grouping the sections based on content type such as How to Design a Program and the Tools that You Need to Make It Work and Defining the Why/the Vision. Then teams spent some time with each section, and dot voted to see what topics are really important or what they wanted to know about. The results dictated ultimately what became the outline for the guide.
 
