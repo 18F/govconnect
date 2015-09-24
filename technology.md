@@ -24,7 +24,7 @@ What platforms are available to a team depends on internal IT policies and the t
 
 Open Opportunities is part of the Digital Gov initiative that allows any federal employee to create an account to post new project or to apply for any project listed. Used by GSA and the State Department, this platform is an example of a platform that operates across all federal agencies.
 
-![A screenshot of part of Open Opportunities page](/govconnect/assets/img/OpenOpps_Example.png)
+![A screenshot of part of Open Opportunities page](/img/OpenOpps_Example.png)
 
 #####Pros#####
 * Already established with active user population
