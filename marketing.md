@@ -6,6 +6,10 @@ Many federal employees are required to create individual development plans — t
 
 What mechanisms already exist within the federal agency to alert new and current employees about advancement opportunities, career plans, and self-evaluation techniques that align them to the agency’s goals, mission, and objectives?
 
+* [Finding and winning support]
+* [Value statements and benefits]
+* [Marketing by phase]
+
 As continuous feedback is essential for a partnership between employees and their supervisors when it comes to career guidance, marketing the agile workforce initiative requires multiple approaches or phases to appeal to different stakeholders.
 
 ##Finding and winning support##
