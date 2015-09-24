@@ -13,7 +13,7 @@ The goal of GovConnect is to create a culture of excellence by implementing a ne
 
 Every agency, and every employee, has a stake in improving workforce development. 
 
-**View meeting agenda (UPLOAD PDF)** 
+[comment]: FIXME: **View meeting agenda (UPLOAD PDF)** 
 
 Here are key points made by participants at the meeting:
 * Create a strong problem statement. Lay out the problem clearly with a definite objective. How will the team measure success, progress? Make sure employees have the tools they need to solve the problem and supervisors/mid-level managers are not hampering employees' efforts as they solve it. Monitor how employees are empowered, encouraged to innovate.
@@ -22,7 +22,7 @@ Here are key points made by participants at the meeting:
 
 ###Overview of Research Findings Highlights Areas of Concern###
 
-Brad Nunnally presented the results of primary research conducted prior to the workshop **(INSERT PDF)**. The purpose was to collect input based on the participants and outcomes of the pilot and mentor agencies:
+Brad Nunnally presented the results of primary research conducted prior to the workshop. The purpose was to collect input based on the participants and outcomes of the pilot and mentor agencies:
 
 * The research had two goals: First, to provide agencies involved with GovConnect best practices, pitfall warnings, and areas of opportunities for program improvement in Phase II. Second, to provide agencies considering developing agile workforce approaches with a “Quick Start Guide” to help them launch.
 * Issues related to technology were the key areas of concern among many pilot programs. Others mentioned the difficulties in attracting more employees and sustaining energy and enthusiasm, and how it changed over time.
