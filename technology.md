@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Step 3: Leveraging Technology"
+image: govconnect/assets/img/OpenOpps_Headline.png
 ---
 To ensure that an agile workforce program will work at any federal agency long term, it needs a technological catalyst to give employees the ability to post new projects as well as apply for them, independent of time or place. The platform that hosts the program needs to be easy to use so that project posting and sign up aren’t a purely manual process for which the agile team is responsible. Technology won't create the program; instead, it streamlines the process, allowing for a healthy number of projects and people, with automated tracking of key metrics. Quantitative metrics reported by the platform help inform business value along with qualitative metrics and success stories from participants.
 
@@ -18,14 +19,14 @@ What platforms are available to a team depends on internal IT policies and the t
 
 ###Open Opportunities###
 
-![A screenshot of part of Open Opportunities page](/assets/img/OpenOpps_Headline.png)
+![A screenshot of part of Open Opportunities page](OpenOpps_Headline.png)
 
 Open Opportunities is part of the Digital Gov initiative that allows any federal employee to create an account to post new project or to apply for any project listed. Used by GSA and the State Department, this platform is an example of a platform that operates across all federal agencies.
 
 #####Pros#####
 * Already established with active user population
 * Available to only federal employees
-* Existing documentation on project creation and applying for projec
+* Existing documentation on project creation and applying for project
 * Existing case studies and marketing materials, including supervisor support
 * Available to be deployed for internal users only
 * The employee must declare if  supervisors are aware of their their activity
