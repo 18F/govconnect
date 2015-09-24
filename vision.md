@@ -11,8 +11,8 @@ are simple and there are others who have done this before who are here to help
 and support you.
 
 A)  [Recruit a mentor] from another agency
-B)  [Write Your Own Problem Statement]
-C)  [Define Your Goal]
+B)  [Write your own problem statement]
+C)  [Define your goal]
 
 ##Recruit a mentor##
 
