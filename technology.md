@@ -1,7 +1,8 @@
 ---
 layout: page
 title:  "Step 3: Leveraging Technology"
-image: /govconnect/assets/img/
+image: /assets/govconnect/img/OpenOpps_Headline.png
+
 ---
 To ensure that an agile workforce program will work at any federal agency long term, it needs a technological catalyst to give employees the ability to post new projects as well as apply for them, independent of time or place. The platform that hosts the program needs to be easy to use so that project posting and sign up aren’t a purely manual process for which the agile team is responsible. Technology won't create the program; instead, it streamlines the process, allowing for a healthy number of projects and people, with automated tracking of key metrics. Quantitative metrics reported by the platform help inform business value along with qualitative metrics and success stories from participants.
 
