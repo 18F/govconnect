@@ -2,9 +2,9 @@
 layout: page
 title:  "Step 5: Get the word out"
 ---
-Many federal employees are required to create individual development plans. As they (and their supervisors) develop this tool to outline a career and professional path for themselves, GovConnect is an invaluable component to consider in the employee’s career development.
+Many federal employees are required to create individual development plans — tools to help them outline their careers and chart their professional paths. GovConnect is an invaluable component to consider in the employee’s career development, and the following will text will outline why.
 
-But what mechanisms already exist within the federal agency to alert new and current employees about advancement opportunities, career plans, and self-evaluation techniques that align them to the agency’s goals, mission, and objectives?
+What mechanisms already exist within the federal agency to alert new and current employees about advancement opportunities, career plans, and self-evaluation techniques that align them to the agency’s goals, mission, and objectives?
 
 As continuous feedback is essential for a partnership between employees and their supervisors when it comes to career guidance, marketing the agile workforce initiative requires multiple approaches or phases to appeal to different stakeholders.
 
@@ -19,9 +19,7 @@ In order to successfully claim this position, internal champions will need to ca
 
 ##Value statements and benefits##
 
-Success for GovConnect will depend on the clear articulation — and operational delivery — of a well-defined value proposition.
-
-Feedback (both in the research and in conversations among pilot program leaders and participants) suggested that their agencies needed to do a better job of describing and promoting its value proposition.
+Success for GovConnect depends on the clear articulation — and operational delivery — of a well-defined value proposition.
 
 A strong and resonant brand idea has the power to unite employees around a true reflection of them as the brand, creating a sense of pride and forward momentum even in the face of challenges as the program expands.
 
