@@ -50,6 +50,7 @@ Effective communications can help engage employees to meet these challenges and 
 ##Marketing materials##
 **PLACEHOLDER - Intro text**
 ###Areas of focus (proposed tactical plans):###
+
 * Educating through a launch campaign:
     * Maintain an editorial calendar and execute communications that provide fresh and compelling content about your program, including news articles and leadership articles bimonthly, and multimedia communications. Feature different themes.
     * Give a voice to middle managers through regular articles and blog posts; also give a nod to senior leaders.
