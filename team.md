@@ -7,7 +7,7 @@ The amount and types of stakeholders that are involved in a new agile workforce 
 * [Mentors]
 * [Applicants]
 * [Supervisors]
-* [Senior Executive Leadership]
+* [Senior Executive Support]
 
 The most important group of stakeholders however is the team behind the agile workforce program. This team doesn’t need to be large to do the design, planning, and launching of the program, however it does take one that is dedicated and engaged. Several key roles make up this program team:
 
@@ -22,7 +22,7 @@ Every program team needs helping hands to get a new program up and running. Thes
 
 It’s important that every program team takes the time to include the stakeholders described below to co-design the program together. This is vital for the program to have a human centered approach and to validate early concepts before they become fully established as core components of the agile workforce program.
 
-##Mentors and Mentorship##
+##Mentors##
 Mentoring is usually a formal or an informal relationship between two people, which occurs for some time, usually between a senior employee and a junior protege’, usually someone who is not directly supervised by the mentor, according to an [OPM best-practices guide](https://www.opm.gov/policy-data-oversight/training-and-development/career-development/bestpractices-mentoring.pdf).
 
 Mentors are key in many instances to alerting colleagues about opportunities to expand their expertise and gain valuable professional development experience. The relationship affords an opportunity for knowledge sharing between inexperienced and senior team members and contributes to enhancing branding of the organization by signaling your organization values employee development.
