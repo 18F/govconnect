@@ -57,7 +57,7 @@ A custom solution built with SharePoint can include notification system to keep 
 
 ###Other platforms###
 
-![Examples of other olatforms](/govconnect/assets/img/OtherPlatforms.png)
+![Examples of other platforms](/govconnect/assets/img/OtherPlatforms.png)
 
 Additional platforms have been used to pilot programs successfully; however, these require significant manual labor and are only recommended if an agency has staff time but a limited budget, and also has significant internal cultural barriers against using an open platform. These platforms will require the team to be more hands-on with the incoming project, applications, and project updates. 
 
