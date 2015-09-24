@@ -52,21 +52,17 @@ The above metrics can be cataloged using many tools that may already be availabl
 
 ####Google Analytics####
 
-
 Google Analytics is free analytics-tracking tool that can “watch” all the activity and traffic that occurs on a website. It’s a user-friendly tool that takes some set up to get everything working. The dashboards give teams insight into not only what people are doing on a site, but how they are doing it and how long it takes them.
 
 ####SharePoint Analytics####
 
-
 SharePoint has its own suite of analytics tools for teams that build their program on top of the SharePoint platform and can’t use Google Analytics. It provides many of the same information as other platforms, but can give a team deeper information about the specific people using the program.
 
-####Google Forms####
-
+####Google forms####
 
 Teams that need a more manual approach to collecting information about their participants can use Google Forms as a means of gathering feedback and usage information. It links various forms that can be published or emailed; participants can report on their demographic information and submit a summary of their activity.
 
 ####Survey tools####
-
 
 Additional survey tools are able to fulfill the same need as Google Forms if Google Apps are not available to use within the agency. It may be possible that tools such as SurveyMonkey, Survs, or Survey Gizmo (a small sample of many different online tools) may be available through an existing account the agency owns. If they are not available, the agency may need to secure funding to purchase accounts, enabling the team to properly gather the metrics it needs to communicate the success of the program.
 
