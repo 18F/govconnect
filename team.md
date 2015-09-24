@@ -59,8 +59,7 @@ A common mistake many pilot programs make is trying to create a program that is 
 
 ###Applicant Profile###
 
-[![An example of an applicant profile](/govconnect/assets/img/Sample Applicant.png)| height = 100px  width = 100px]
-
+[![An example of an applicant profile](/govconnect/assets/img/Sample Applicant.png =250px)
 JOB TITLE
 
 DESCRIPTION
