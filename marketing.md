@@ -49,6 +49,7 @@ Effective communications can help engage employees to meet these challenges and 
 
 ##Marketing materials##
 **PLACEHOLDER - Intro text**
+
 ###Areas of focus:###
 
 * Educating through a launch campaign:
