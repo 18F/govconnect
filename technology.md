@@ -39,7 +39,7 @@ Open Opportunities is part of the Digital Gov initiative that allows any federal
 
 ###SharePoint###
 
-![Example a SharePoint dashboard](/img/DeptofCommerce_Sample.png)
+![Example an agency using SharePoint](/govconnect/assets/img/DeptofCommerce_Sample.png)
 
 SharePoint is a common platform for many agencies such as EPA, the Social Security Administration, and the Commerce Department where employees have access to create their own pages or sites. This allows for a program to take advantage of many of the integrations that came along with SharePoint, such as accessing Exchange Profiles to map employee and supervisor relationships. The process for getting a page or site launched to host the program requires assistance from your IT department.
 
@@ -57,7 +57,7 @@ A custom solution built with SharePoint can include notification system to keep 
 
 ###Other platforms###
 
-[comment]: FIXME: **INSERT TWO PICTURES FOR WORDPRESS AND GOOGLE**
+![Example an agency using SharePoint](/govconnect/assets/img/OtherPlatforms.png)
 
 Additional platforms have been used to pilot programs successfully; however, these require significant manual labor and are only recommended if an agency has staff time but a limited budget, and also has significant internal cultural barriers against using an open platform. These platforms will require the team to be more hands-on with the incoming project, applications, and project updates. 
 
