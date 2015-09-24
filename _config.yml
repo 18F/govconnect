@@ -60,7 +60,9 @@ navigation:
 - text: History of GovConnect
   url: history.html
   internal: true
-
+- text: Workshop Summary
+  url: workshop.html
+  internal: true
 # - text: Research
 #   url: research.html
 #   internal: true
