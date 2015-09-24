@@ -36,24 +36,13 @@ It is important that any project created and posted to the pilot program encoura
 - Articulate outcomes once project is completed
 
 *Additional references*
+
 * [Open Opportunities Task Creator Toolkit](http://www.digitalgov.gov/resources/open-opportunities-task-creator-toolkit/)
 * [10 Tips for Creating the Perfect Open Opportunity Task](http://www.digitalgov.gov/resources/open-opportunities-task-creator-toolkit/10-tips-for-creating-the-perfect-open-opportunity-task/)
-* Placeholder for SSA Material
-* Placeholder for Dept of Commerce Material
-* Placeholder of State Material
+
 
 ##Project management techniques##
-Many program teams are leading their first project when they decide to head up a new agile workforce program. Several tools are available to help project leads determine what work needs to get done and when it makes since to establish deadlines for that work. To aid in planning and managing of the new program, below are some common techniques for managing a project:
-
-###Project plans###
-**INSERT PICTURE**
-
-###Milestones###
-**INSERT PICTURE**
-
-
-###Status updates###
-**ADD Description and method and template**
+Many program teams are leading their first project when they decide to head up a new agile workforce program. Several tools are available to help project leads determine what work needs to get done and when it makes since to establish deadlines for that work. 
 
 ##Knowledge sharing and management##
 
@@ -66,6 +55,4 @@ Key drivers for agencies to manage knowledge effectively in project development 
 * Reducing dependency on a few individuals for the project’s overall success
 * Improving the overall project team’s productivity
 
-To encourage widespread engagement throughout the team and to bolster the business case for the project, it is important to prove the concept within departments across the organization. Develop a Wiki devoted to the project to ensure knowledge management of best practices and lessons learned.
-
-**PLACEHOLDER: more insight about ways to curate/capture/disseminate knowledge & platforms to host this --- WordPress, Wikis, SharePoint, Google Docs, etc. - what their agencies supports**
+To encourage widespread engagement throughout the team and to bolster the business case for the project, it is important to prove the concept within departments across the organization. Develop a Wiki devoted to the project to ensure knowledge management of best practices and lessons learned. Or, use other ways to curate or capture and disseminate knowledge and platforms to host this activity such as WordPress, SharePoint, Google Docs, or other tools your agency supports.
