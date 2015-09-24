@@ -22,7 +22,7 @@ What platforms are available to a team depends on internal IT policies and the t
 
 Open Opportunities is part of the Digital Gov initiative that allows any federal employee to create an account to post new project or to apply for any project listed. Used by GSA and the State Department, this platform is an example of a platform that operates across all federal agencies.
 
-####Pros####
+#####Pros#####
 * Already established with active user population
 * Available to only federal employees
 * Existing documentation on project creation and applying for projec
@@ -30,7 +30,7 @@ Open Opportunities is part of the Digital Gov initiative that allows any federal
 * Available to be deployed for internal users only
 * The employee must declare if  supervisors are aware of their their activity
 
-####Cons####
+#####Cons#####
 * Agency fees needed for supervisor notification and deploying for internal users only
 
 ###SharePoint###
@@ -39,12 +39,12 @@ SharePoint is a common platform for many agencies such as EPA, the Social Securi
 
 A custom solution built with SharePoint can include notification system to keep supervisors informed if employees apply for new project. This system can also track if a supervisor has approved an employee's desire to participant or not, which requires additional customization.
 
-####Pros####
+#####Pros#####
 * A fully supported platform available to all agency employees
 * Easy integration with Exchange profile to allow for supervisor approval workflow
 * Can be integrated into an agency's intranet for greater exposure
 
-####Cons####
+#####Cons#####
 * Requires IT support to deploy and maintain the program
 * Requires knowledge of SharePoint to manage program page/site
 * Dependent on IT release schedule for updates to program
@@ -55,7 +55,7 @@ A custom solution built with SharePoint can include notification system to keep 
 
 Additional platforms have been used to pilot programs successfully; however, these require significant manual labor and are only recommended if an agency has staff time but a limited budget, and also has significant internal cultural barriers against using an open platform. These platforms will require the team to be more hands-on with the incoming project, applications, and project updates. 
 
-####Pros####
+#####Pros#####
 * Simple platforms that require little support from agency IT department
 * Low investment to communicate the value of an agile workforce platform
 
