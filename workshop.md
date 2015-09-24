@@ -5,7 +5,7 @@ title:  "GovConnect: Stakeholder Workshops Agenda"
 
 On Sept. 1 and Sept. 2, 2015, the U.S. Office of Personnel Management (OPM), the White House Personnel Office, the Environmental Protection Agency, and 18F co-hosted a workshop to discuss challenges and opportunities facing the next phase of development for GovConnect, or the experiences of individuals who’ve worked with an agile workforce program similar to the GovConnect pilots currently in place.
 
-OPM is co-leading President Obama’s second-term management agenda People and Culture goal with the White House Presidential Personnel Office. GovConnect is an employee engagement subgoal led by OPM and the EPA.
+OPM is co-leading President Barack Obama’s [second-term management agenda](https://www.whitehouse.gov/sites/default/files/omb/budget/fy2015/assets/fact_sheets/creating-a-21st-century-government.pdf) people and culture goal with the White House Presidential Personnel Office. GovConnect is an employee engagement subgoal led by OPM and the EPA.
 
 To respond to the federal government’s professional development and engagement challenge, OPM, EPA, and 18F are working on a strategy that includes administrative and communication measures to improve federal government’s workforce development, recruitment, and retention.  
 
