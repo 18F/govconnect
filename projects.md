@@ -42,7 +42,15 @@ It is important that any project created and posted to the pilot program encoura
 
 
 ##Project management techniques##
-Many program teams are leading their first project when they decide to head up a new agile workforce program. Several tools are available to help project leads determine what work needs to get done and when it makes since to establish deadlines for that work. 
+Many program teams are leading their first project when they decide to head up a new agile workforce program. Several tools are available to help project leads determine what work needs to get done and when it makes since to establish deadlines for that work. To aid in planning and managing of the new program, below are some common techniques for managing a project:
+
+###Project Plans###
+
+![An example of a project plan](/govconnect/assets/img/GanntChart_ProjectPlanning.png)( https://en.wikipedia.org/wiki/Gantt_chart#/media/File:GanttChartAnatomy.svg)
+
+###Milestones###
+
+![An example of tracking milestones](/govconnect/assets/img/Milestones_ProjectPlanning.png)( https://upload.wikimedia.org/wikipedia/commons/7/7d/Milestones.png)
 
 ##Knowledge sharing and management##
 
