@@ -3,6 +3,7 @@ layout: page
 title:  "Step 2: Assemble a Team"
 ---
 The amount and types of stakeholders that are involved in a new agile workforce program differ based on the agency and overall scope of the program. These stakeholders include:
+
 * Mentors
 * Applicants
 * Supervisors
@@ -28,7 +29,7 @@ Mentors are key in many instances to alerting colleagues about opportunities to 
 
 In the federal government, mentoring can be a precursor for additional career development or participation in formal programs including the Executive Leadership Program, the Presidential Management Program, and the Senior Executive Service Candidate Development Program, according to OPM.
 
-“Some mentor programs have flourished. The Environmental Protection Agency’s Skills Marketplace has become established within the EPA as an effective resource for managers. Open Opportunities has grown dramatically and is now open to all federal employees,” according to a [blog post](https://18f.gsa.gov/2015/09/01/govconnect-launch/) published by 18F about the GovConnect initiative.
+“Some mentor programs have flourished. The Environmental Protection Agency’s Skills Marketplace has become established within the EPA as an effective resource for managers. Open Opportunities has grown dramatically and is now open to all federal employees,” according to a [September 2015 blog post](https://18f.gsa.gov/2015/09/01/govconnect-launch/) published by 18F about the GovConnect initiative.
 
 The aim of GovConnect to help agency leaders connect their employees to innovative work on a part-time basis, to one another, and to their agency’s mission.
 
