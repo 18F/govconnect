@@ -14,7 +14,9 @@ A)  [Recruit a mentor] from another agency
 B)  [Write your own problem statement]
 C)  [Define your goal]
 
+
 Remember, in creating this vision, reflect on the parts of your agency's culture that are positive, that make it unique, and fold those things into your message. Make it part of your program planning.
+
 
 ##Recruit a mentor##
 
