@@ -16,7 +16,7 @@ Key Metrics Every Program Should Track:
   * Net Promoter Score
 * Number of visitors on program site
 
-One requirement for getting metrics tracking set up is to have certain technologies in place that will measure these metrics automatically. These are simple to set up, but they may require some assistance from the agency’s IT department.
+Tracking these metrics automatically is the best recipe for success. 
 
 ##Qualitative##
 
