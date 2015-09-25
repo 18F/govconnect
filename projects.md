@@ -9,6 +9,7 @@ When planning and designing an agile workforce pilot, there are several material
 It is important that any project created and posted to the pilot program encourages others to apply and begin working on the posted project. One thing to consider is that project writing is hard; the description needs to provide enough information to allow an applicant to understand what the purpose of the project is and why they might want to apply to work on it. Below are some common tactics other programs have used to aid project creators in how to write a good project.
 
 *Identifying projects*
+
 * Does the current team not have the skills necessary to solve this problem?
 * Does the problem require external input?
 * Does the problem support virtual contributions?
@@ -17,6 +18,7 @@ It is important that any project created and posted to the pilot program encoura
 * Can a team work on a solution in their “free time?"
 
 *Writing new projects*
+
 * Begin with an outline that lists the problem that needs to be solved, why it needs solving, what skills are needed to solve the problem, and how long it might take to solve the problem.
 * Add more detail about the project so that the reader fully understands the problem, the need for a solution, and why applying to work on the project will benefit them.
 * Describe who might be eligible to apply for the project.
@@ -24,11 +26,13 @@ It is important that any project created and posted to the pilot program encoura
 * Define the size of the team the project would need to complete it
 
 *Posting a new project*
+
 * Market the project around the department and agency
 * Create “what’s in it for me?” language to encourage people to apply
 * Review new applications in a timely manner to prevent participants from losing interest
 
 *Project feedback*
+
 * Not performance review
 * Freedom to take risks
 * Focus on work done not the person
