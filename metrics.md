@@ -8,15 +8,13 @@ These success metrics can include the ability to track the activity of employees
 
 Key Metrics Every Program Should Track:
 
-* Number of Applicants
-    * Average Applicant per Project
+* Cross Team Collaboration (# of people, # of teams/offices/agencies)
+* Number of Participants
 * Number of Projects Posted
-    * Average Time to Completion
-    * Employee and Agency Impact
-* Number of vistors on program site
-* Employee Satisfaction Ratings
-* Post Project Feedback
-* Cross Team/Department Collaboration
+  * Employee and Agency Impact
+  * Post Project Feedback
+  * Net Promoter Score
+* Number of visitors on program site
 
 One requirement for getting metrics tracking set up is to have certain technologies in place that will measure these metrics automatically. These are simple to set up, but they may require some assistance from the agency’s IT department.
 
@@ -24,7 +22,7 @@ One requirement for getting metrics tracking set up is to have certain technolog
 
 Some methods for tracking success need to be done manually and require the administration team to reach out and interact directly with employees participating in the agile workforce program. Two methods, which are recommended best practices and ensure that the program focuses on human-centered design, include:
 
-* Post project feedback — After a project has been completed via the agile workforce program, applications and project leaders should be asked to fill out a very brief, open-ended survey that collects their thoughts and feelings on the outcome of the project. Questions that could be asked include:
+* Post project feedback — After a project has been completed via the agile workforce program, participants and project leaders should be asked to fill out a very brief, open-ended survey that collects their thoughts and feelings on the outcome of the project. Questions that could be asked include:
     * How do you feel about your role at the agency after participating in the program?
     * How do you feel your involvement has improved the agency?
     * What would you do differently in the future when participating in the program?
