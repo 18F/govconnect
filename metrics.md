@@ -6,6 +6,17 @@ For a program administration team to take a pilot and move it into a fully suppo
 
 These success metrics can include the ability to track the activity of employees, teams, and the program overall. The team can use this information to provide consistent updates to senior management, and to communicate key milestones that reflect the program's success.
 
+Key Metrics Every Program Should Track:
+* Number of Applicants
+  * Average Applicant per Project
+* Number of Projects Posted
+  * Average Time to Completion
+  * Employee and Agency Impact
+* Number of vistors on program site
+* Employee Satisfaction Ratings
+* Post Project Feedback
+* Cross Team/Department Collaboration
+
 One requirement for getting metrics tracking set up is to have certain technologies in place that will measure these metrics automatically. These are simple to set up, but they may require some assistance from the agency’s IT department.
 
 ##Qualitative##
@@ -81,4 +92,3 @@ Existing programs also use different dashboards and reports to track the overall
 ![An example of a report](/govconnect/assets/img/OpenOppsReport.png)
 ![An example of a report](/govconnect/assets/img/SkillsConnectReport.png)
 ![An example of a report](/govconnect/assets/img/SkillsConnectPilotReport.png)
-
