@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "GovConnect: Stakeholder Workshops Agenda"
+title:  "GovConnect Phase 1 Program Workshop Agenda"
 ---
 
 The Office of Personnel Management, the White House Personnel Office, the Environmental Protection Agency, and 18F co-hosted a workshop in early September to discuss challenges and opportunities facing the next phase of development for GovConnect, or the experiences of individuals who’ve worked with an agile workforce program similar to the GovConnect pilots currently in place.
