@@ -86,34 +86,34 @@ Every team needs a leader, someone who is able to carry the torch and keep the p
 
 ####New Pilot Checklist####
 *Team Creation*
-    * Locate two to three co-workers to assist with program planning and administration
-    * Define roles for team members
-    * Team members made up of cross department/cross discipline representation
-    * Locate a mentor to guide the team
-    * Define a plan for ownership transition if pilot gets approval to become fully supported program
+* Locate two to three co-workers to assist with program planning and administration
+* Define roles for team members
+* Team members made up of cross department/cross discipline representation
+* Locate a mentor to guide the team
+* Define a plan for ownership transition if pilot gets approval to become fully supported program
 
 *Problem Statement*
-    * Meet with department leaders and supervisors to explore problem space
-    * Meet with union representatives to understand concerns
-    * Host a workshop collectively define the problem that needs to be solved with representatives from management, supervisors, and unions.
-    * Draft problem statement and validate with both employees and other stakeholders
+* Meet with department leaders and supervisors to explore problem space
+* Meet with union representatives to understand concerns
+* Host a workshop collectively define the problem that needs to be solved with representatives from management, supervisors, and unions.
+* Draft problem statement and validate with both employees and other stakeholders
 
 *Platform Evaluation*
-    * Research the available technology platforms made available by agencies’ IT department
-    * Evaluate using Open Opportunities to host both the pilot and the program
+* Research the available technology platforms made available by agencies’ IT department
+* Evaluate using Open Opportunities to host both the pilot and the program
 
 *Marketing Plan*
-    * Create an editorial calendar for posting digital and physical marketing material around the agency
-    * Contact your agency’s public relations and marketing department or outreach and communications department to determine the level of support they can provide to create collateral
-    * Determine how the team can include content in agency newsletters or announcements
-    * Ask to make announcements during any townhalls or agency-wide meetings
-    * Determine what materials located in the Marketing section of the Starter Kit the team would like to produce
+* Create an editorial calendar for posting digital and physical marketing material around the agency
+* Contact your agency’s public relations and marketing department or outreach and communications department to determine the level of support they can provide to create collateral
+* Determine how the team can include content in agency newsletters or announcements
+* Ask to make announcements during any townhalls or agency-wide meetings
+* Determine what materials located in the Marketing section of the Starter Kit the team would like to produce
 
 *Pre-Launch Check*
-    * Create a form for new project and applications
-    * Validate that project can be created and submitted to the pilot
-    * Validate that applications can be created and submitted to the pilot
-    * Test any supervisor workflow if it’s been implemented
-    * Prepare pilot launch messages, emails, and announcements
-    * Determine application review process
-    * Validate analytics tracking for the pilot
+* Create a form for new project and applications
+* Validate that project can be created and submitted to the pilot
+* Validate that applications can be created and submitted to the pilot
+* Test any supervisor workflow if it’s been implemented
+* Prepare pilot launch messages, emails, and announcements
+* Determine application review process
+* Validate analytics tracking for the pilot
