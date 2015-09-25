@@ -59,47 +59,9 @@ A common mistake many pilot programs make is trying to create a program that is 
 
 ###Applicant Profile###
 
-![An example of an applicant profile](/govconnect/assets/img/Sample Applicant.png){width=250px height=250px}
-
-JOB TITLE
-
-DESCRIPTION
-
-####Reasons for Participating####
-**REASON**
-
-**REASON**
-
-**REASON**
-
-####Employee Benefits####
-**BENEFIT**
-
-**BENEFIT**
-
-**BENEFIT**
-
-###Project Creator Profile###
-
-[comment]: FIXME: **INSERT THUMBNAIL**
-
-JOB TITLE
-
-DESCRIPTION
-
-####Reasons for Creating Project####
-**REASON**
-
-**REASON**
-
-**REASON**
-
-####Agency Benefits####
-**REASON**
-
-**REASON**
-
-**REASON**
+<img src="assets/img/Sample Applicant.png"
+     alt="An example of an applicant profile"
+     width="80%" />
 
 ###Senior Executive Support###
 
