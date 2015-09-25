@@ -2,7 +2,9 @@
 layout: page
 title:  "Step 5: Get the word out"
 ---
-Many federal employees are required to create individual development plans — tools to help them outline their careers and chart their professional paths. GovConnect is an invaluable component to consider in the employee’s career development, and the following will text will outline why.
+Doing things publicly, whether through blogs and newsletters or other communication vehicles, connects employees within agencies and across the government. Being open and transparents fosters community, shares knowledge across different organizations, and makes government stronger. 
+
+Many federal employees need to create individual development plans — tools to help them outline their careers and chart their professional paths. GovConnect can help as an employee maps out their career development, and the following text outlines why.
 
 What mechanisms already exist within the federal agency to alert new and current employees about advancement opportunities, career plans, and self-evaluation techniques that align them to the agency’s goals, mission, and objectives?
 
