@@ -15,9 +15,9 @@ Every agency, and every employee, has a stake in improving workforce development
 
 Here are key points made by participants at the meeting:
 
-* Create a strong problem statement. Lay out the problem clearly with a definite objective. How will the team measure success, progress? Make sure employees have the tools they need to solve the problem and supervisors/mid-level managers are not hampering employees' efforts as they solve it. Monitor how employees are empowered, encouraged to innovate.
-* Personalize design for support, administration, communication, etc., within the scope of the agency’s culture. Make a concerted effort to appeal to employees with underutilized skills to give them opportunities to engage in higher-level work. Aim to create a team represented by people with a mix of commitment with the agency’s core mission and their own desire to grow as a professional.
-* Look for ways to “feed the elephant” as the project progresses. Select champions - among employees and mid-level - to maintain enthusiasm for the project, to move it forward; celebrate different phases/developments, and communicate creatively to drum up support and to advance awareness of the project, its purpose, and effectiveness.
+1. Create a strong problem statement. Lay out the problem clearly with a definite objective. How will the team measure success, progress? Make sure employees have the tools they need to solve the problem and supervisors/mid-level managers are not hampering employees' efforts as they solve it. Monitor how employees are empowered, encouraged to innovate.
+2. Personalize design for support, administration, communication, etc., within the scope of the agency’s culture. Make a concerted effort to appeal to employees with underutilized skills to give them opportunities to engage in higher-level work. Aim to create a team represented by people with a mix of commitment with the agency’s core mission and their own desire to grow as a professional.
+3. Look for ways to “feed the elephant” as the project progresses. Select champions - among employees and mid-level - to maintain enthusiasm for the project, to move it forward; celebrate different phases/developments, and communicate creatively to drum up support and to advance awareness of the project, its purpose, and effectiveness.
 
 ###Overview of Research Findings Highlights Areas of Concern###
 
