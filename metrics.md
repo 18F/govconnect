@@ -9,10 +9,10 @@ These success metrics can include the ability to track the activity of employees
 Key Metrics Every Program Should Track:
 
 * Number of Applicants
-  * Average Applicant per Project
+    * Average Applicant per Project
 * Number of Projects Posted
-  * Average Time to Completion
-  * Employee and Agency Impact
+    * Average Time to Completion
+    * Employee and Agency Impact
 * Number of vistors on program site
 * Employee Satisfaction Ratings
 * Post Project Feedback
