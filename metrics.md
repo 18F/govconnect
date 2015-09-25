@@ -7,6 +7,7 @@ For a program administration team to take a pilot and move it into a fully suppo
 These success metrics can include the ability to track the activity of employees, teams, and the program overall. The team can use this information to provide consistent updates to senior management, and to communicate key milestones that reflect the program's success.
 
 Key Metrics Every Program Should Track:
+
 * Number of Applicants
   * Average Applicant per Project
 * Number of Projects Posted
