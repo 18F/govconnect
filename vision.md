@@ -94,6 +94,5 @@ Here are some ideas:
 * Increased EVS scores, achieved by allowing employees to better utilize their skills and maintain better control over their professional development
 * Employees have the chance to learn key leadership skills and experience by leading small, low-risk projects
 * Increased employee productivity due to the introduction of new efficiencies
-* Greater ability to recruit and retain new talent to fill open slots within the agency
 
 Before you define you goal, review [Step 6: Measuring Success](metrics.html) and brainstorm ways that you might measure the outcome.  Feel free to use words that inspire you and your team, even if you aren't exactly sure how you will measure them.
