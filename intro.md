@@ -2,7 +2,10 @@
 layout: page
 title:  "Getting Started with GovConnect"
 ---
-This GovConnect Starter Kit serves agency leadership, individual employees, and teams that have a desire to create an agile workforce program within your organization with the necessary information and tools to build your own program. Teams can use this information to design an agile workforce program.
+The Office of Personnel Management and the GovConnect community invites you to
+start or join an agile workforce initiative at your agency.
+
+This GovConnect Starter Kit serves agency leadership, individual employees, and teams that have a desire to create an agile workforce program within your organization with the necessary information and tools to build your own program. Teams can use this information to design and scale an agile workforce program.
 
 The topics we'll cover include:
 
@@ -11,6 +14,3 @@ The topics we'll cover include:
 * Insight into technological challenges and solutions you may encounter as the program evolves;
 * Resources on how to market the program to participants, their supervisors, and other leaders; and
 * Suggestions on using metrics to measure return on investment and the program’s overall success.
-
-[comment]: FIXME: ##How To Use This Guide:##
-[comment]: FIXME: PLACEHOLDER: Include short descriptions for each section so people can dive in where they might need to.
