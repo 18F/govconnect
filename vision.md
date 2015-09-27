@@ -95,4 +95,4 @@ Here are some ideas:
 * Employees have the chance to learn key leadership skills and experience by leading small, low-risk projects
 * Increased employee productivity due to the introduction of new efficiencies
 
-Before you define you goal, review [Step 6: Measuring Success](metrics.html) and brainstorm ways that you might measure the outcome.  Feel free to use words that inspire you and your team, even if you aren't exactly sure how you will measure them.
+Before you finalize your goal, review [Step 6: Measuring Success](metrics.html) and brainstorm ways that you might measure the outcome.  Feel free to use words that inspire you and your team, even if you aren't exactly sure how you will measure them.
