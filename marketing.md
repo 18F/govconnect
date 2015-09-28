@@ -54,7 +54,7 @@ Effective communications can help engage employees to meet these challenges and 
     * Explore technology capabilities that will enhance your communications and engagement as an organization.
 
 
-###Key Steps###
+###Plan Key Steps###
 
 * Educate through a launch campaign
     * Maintain an editorial calendar and execute communications that provide fresh and compelling content about your program, including news articles and leadership articles bimonthly, and multimedia communications. Feature different themes.
