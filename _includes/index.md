@@ -21,4 +21,4 @@ innovate.
 * A strengthened knowledge base across the Government and reduced reliance on
 contractors.
 
--- [OPM Call For Participation, April 2014](https://www.chcoc.gov/content/govconnect-expo-follow-identifying-volunteer-pilot-agencies)
+
