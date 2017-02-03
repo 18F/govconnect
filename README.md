@@ -6,7 +6,6 @@ This should be considered a work in progress.  We welcome pull requests and disc
 
 - Ruby (2.2.3 recommended)
 - Bundler gem
-- [Pandoc](http://pandoc.org/installing.html) (try `brew install pandoc` on OS X)
 
 # Usage
 

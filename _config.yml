@@ -1,14 +1,8 @@
 # Base configuration
 permalink: /:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-markdown: pandoc
+markdown: kramdown
 highlighter: pygments
-gems:
-  - jekyll-pandoc
-pandoc:
-  extensions:
-    - normalize
-    - smart
 
 # Title
 name: GovConnect
